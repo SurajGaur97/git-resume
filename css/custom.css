@@ -1,0 +1,8 @@
+.collapsible {
+  color: rgb(37, 203, 0);
+  cursor: pointer;
+}
+
+.collapsible:hover {
+  color: green;
+}
